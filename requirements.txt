@@ -1,0 +1,4 @@
+aiogram==2.25.1
+ffmpeg-normalize==1.27.7
+python-dotenv==1.0.0
+loguru==0.7.0
